@@ -1,0 +1,7 @@
+Test          | Accuracy
+------------------------
+All Taken     | 0.999350
+All Non-Taken | 0.999980
+Random        | 0.999840
+------------------------
+(100000 Repetitions)

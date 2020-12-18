@@ -1,0 +1,12 @@
+Speculation Trigger Rate
+------------------------
+Baseline        | 0.001
+With Saturation | 1.000
+------------------------
+
+Flush+Reload Threshold Report
+-----------------------------
+Cache Hit  | 44
+Cache Miss | 304
+Threshold  | 130
+-----------------------------

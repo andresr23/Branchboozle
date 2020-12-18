@@ -1,0 +1,12 @@
+Speculation Trigger Rate
+--------------------------
+In-place        | 0.998
+Out-of-Place    | 0.987
+--------------------------
+
+Flush+Reload Thereshold Report
+------------------------------
+Cache Hit  | 45
+Cache Miss | 305
+Thereshold | 131
+------------------------------

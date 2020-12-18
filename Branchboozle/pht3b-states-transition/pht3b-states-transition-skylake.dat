@@ -1,0 +1,24 @@
+Rounds	| States
+-------------------------
+ 0	| M U U U H H H H 
+ 1	| M U U U H H H H 
+ 2	| M M M U U H H H 
+ 3	| M M M U U H H H 
+ 4	| M M M U H H H H 
+ 5	| M M M U H H H H 
+ 6	| M M M U H H H H 
+ 7	| M M M U H H H H 
+ 8	| M M M U H H H H 
+ 9	| M M M U H H H H 
+ 10	| M M M U H H H H 
+ 11	| M M M U H H H H 
+ 12	| M M M U H H H H 
+ 13	| M M M U H H H H 
+ 14	| M M M U H H H H 
+ 15	| M M M U H H H H 
+ 16	| M M M U H H H H 
+ 17	| M M M U H H H H 
+ 18	| M M M U H H H H 
+ 19	| M M M U H H H H 
+-------------------------
+(10000 Repetitions)

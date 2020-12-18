@@ -1,0 +1,27 @@
+# Object files
+*.o
+*.ko
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Executables
+*.out
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+*.o.ur-safe
+.cache.mk
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
